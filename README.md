@@ -28,7 +28,7 @@
 
 <p align="left">
   - 🔭 I'm currently a student in Canisius College Jakarta<br>
-  - 📚 I'm currently learning Django<br>
+  - 📚 I'm currently learning System Architecture<br>
   - ⚡ In my free time I develop high quality web apps
 </p>
 
