@@ -29,7 +29,7 @@
 <p align="left">
   - 🔭 I'm a student in Canisius College Jakarta<br>
   - 📚 I'm currently learning System Architecture<br>
-  - ⚡ In my free time I develop high quality web apps
+  - ⚡ In my free time I develop web apps
 </p>
 
 ###
